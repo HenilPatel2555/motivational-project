@@ -1,0 +1,24 @@
+#font{
+    font-size: 2rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:900;
+    color: whitesmoke;
+    text-align:center;
+}
+html{
+    background:brown;
+}
+
+img{
+    border: 5px solid blue;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+p{
+    color: whitesmoke;
+    width: 50%;
+    margin-left: 40%;
+}
